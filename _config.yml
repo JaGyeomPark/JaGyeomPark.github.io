@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://JaGyeomPark.github.io/"
+baseurl: "https://JaGyeomPark.github.io"
+url: "https://JaGyeomPark.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
